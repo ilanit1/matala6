@@ -1,3 +1,4 @@
+#include <iostream>
 #include "part.h"
 
 void part::operator=(const char c) {
