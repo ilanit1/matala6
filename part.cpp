@@ -1,4 +1,5 @@
 #include <iostream>
+#include "IllegalCharException.h"
 #include "part.h"
 
 void part::operator=(const char c) {
