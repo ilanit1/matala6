@@ -1,3 +1,5 @@
+#include "IllegalCharException.h"
+#include "IllegalCoordinateException.h"
 #include "Board.h"
 using namespace std;
 
