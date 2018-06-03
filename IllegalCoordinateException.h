@@ -1,5 +1,6 @@
 using namespace std;
 #include <string>
+#pragma once
 
 class IllegalCoordinateException {
 
